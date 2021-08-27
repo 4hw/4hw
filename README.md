@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **cactus@hacked-the-mainfra.me**
 
-- ⚡ Fun fact: **I hacker**
+- ⚡ Fun fact: **I hacker!!!**
 
 
 <h3 align="left">Languages and Tools:</h3>
