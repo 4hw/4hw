@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cactus0561&label=Profile%20views&color=0e75b6&style=flat" alt="cactus0561" /> </p>
 
-- 👨‍💻 All of my projects are available at: [https://github.com/Cactus0561?tab=repositories](https://github.com/Cactus0561?tab=repositories)
+- 👨‍💻 All of my projects are available at: [Click here :D](https://github.com/Cactus0561?tab=repositories)
 
 - 💬 Ask me about: **pithon lenguage**
 
 - 📫 How to reach me: **cactus@hacked-the-mainfra.me**
-
-- 📄 Know about my experiences: [https://github.com/Cactus0561?tab=repositories](https://github.com/Cactus0561?tab=repositories)
 
 - ⚡ Fun fact: **I hacker**
 
